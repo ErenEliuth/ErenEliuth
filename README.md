@@ -1,4 +1,4 @@
-# Hi there, I'm ErenEliuth 👋
+# Hi there, I'm Eren Eliuth 👋
 
 ### 👨‍💻 Full Stack Developer & UI Enthusiast
 Apasionado por crear experiencias digitales de alto impacto, combinando un diseño impecable con arquitecturas robustas y escalables.
