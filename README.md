@@ -7,8 +7,8 @@
 Soy un desarrollador comprometido con la excelencia tecnica e innovacion. Mi trayectoria combina la robustez de la infraestructura de redes con la agilidad del desarrollo web moderno. Me especializo en crear soluciones escalables que integran el ecosistema de **Microsoft 365** con aplicaciones personalizadas en **React** y **Node.js**.
 
 - :telescope: Actualmente trabajando en el **Airbnb Premium Clone**.
-  :seedling: Aprendiendo sobre arquitecturas cloud avanzadas y optimizacion de base de datos.
-- :zap: "El codigo es poesia en movimiento, y cada linea es una oportunidad para la alquimia perfecta."
+- - :seedling: Aprendiendo sobre arquitecturas cloud avanzadas e optimizacion de base de datos.
+  - - :zap: "El codigo es poesia en movimiento, y cada linea es una oportunidad para la alquimia perfecta."
    
     - ---
 
