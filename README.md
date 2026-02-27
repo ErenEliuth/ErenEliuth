@@ -1,51 +1,52 @@
-# ⚡ Eren Eliuth - Full Stack Alchemist
+# Eren Eliuth - Full Stack Alchemist 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ErenEliuth&label=Profile%20views&color=0e75b6&style=flat" alt="ErenEliuth" />
-</p>
-
-### 👨‍💻 Acerca de mí
-Soy un desarrollador **Full Stack** apasionado por la intersección entre el diseño visual impactante y la lógica de backend eficiente. Me especializo en ecosistemas modernos basados en **React**, **JavaScript** y **Supabase**, siempre buscando la excelencia técnica en cada línea de código.
+Soy un desarrollador **Full Stack** apasionado por la creacion de interfaces visuales de alto impacto y arquitecturas de backend eficientes. Mi enfoque se centra en transformar ideas complejas en experiencias digitales fluidas, utilizando el poder de **React 19**, **Supabase** y **Tailwind CSS 4.0**.
 
 ---
 
-### 🌟 Proyecto Destacado: Airbnb Premium Clone
-> Una experiencia completa de reserva de alojamientos con una interfaz pulida y funcionalidades de nivel profesional.
+## Proyecto Destacado: Airbnb Premium Clone
 
-- **🌐 Live Demo:** [https://ErenEliuth.github.io/airbnb/](https://ErenEliuth.github.io/airbnb/)
-- **💻 Repositorio:** [ErenEliuth/airbnb](https://github.com/ErenEliuth/airbnb)
-- **🛠️ Tech:** React 19, Supabase, Tailwind CSS 4.0, Google Auth, Leaflet Maps.
+Una experiencia completa de reserva de alojamientos con una interfaz pulida y funcionalidades de nivel profesional.
 
----
+### Ultimas Innovaciones:
+- **Premium UX/UI:** Sistema de notificaciones (Toasts) personalizado y barra de navegacion con efectos Glassmorphism.
+- - **Mobile-First Design:** Navegacion optimizada con asistentes inteligentes y scroll automatico.
+  - - **Smart Booking Engine:** Logica avanzada de reserva con validacion de fechas en tiempo real y gestion de disponibilidad.
+    - - **Global Reach:** Sistema multi-idioma y de conversion de moneda dinamico.
+      - - **Host Wizard:** Flujo paso a paso con carga de imagenes a la nube y geocoding integrado.
+       
+        - **[Demo en vivo](https://ErenEliuth.github.io/airbnb/) | [Repositorio](https://github.com/ErenEliuth/airbnb)**
+       
+        - ---
 
-### 🧰 Stack Tecnológico
+        ## Tech Stack Alchemist
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square) |
-| **Backend** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
-| **Herramientas** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white&style=flat-square) |
+        | Area | Tecnologias |
+        | :--- | :--- |
+        | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+        | **Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+        | **Tools** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FFB13B?style=flat&logo=github-actions&logoColor=white) |
 
----
+        ---
 
-### 📊 Actividad en GitHub
+        ## Estadisticas de Alquimista
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenEliuth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenEliuth&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=ErenEliuth&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenEliuth&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages" />
+        </div>div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenEliuth&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+        <div align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenEliuth&theme=dracula&hide_border=true" alt="streak" />
+        </div>div>
 
----
+        ---
 
-### 📫 Hablemos
-¿Tienes un proyecto en mente o simplemente quieres saludar?
-- 📧 **Email:** [Erennavas4@gmail.com](mailto:Erennavas4@gmail.com)
-- 📍 **Ubicación:** Barranquilla, Colombia
-
-<p align="right">
-  <i>"El código es poesía en movimiento."</i>
-</p>
+        > "El codigo es poesia en movimiento, y cada linea es una oportunidad para la alquimia perfecta."
+        >
+        > <div align="center">
+          <a href="https://linkedin.com/in/ErenEliuth" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+          </a>a>
+          </div>
+          
