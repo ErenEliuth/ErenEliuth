@@ -37,5 +37,5 @@ Soy un desarrollador comprometido con la excelencia tecnica e innovacion. Mi tra
 
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=ErenEliuth&color=FF385C" alt="ErenEliuth" />
-    </p>p>
+    </p>
     
