@@ -1,52 +1,41 @@
-# Eren Eliuth - Full Stack Alchemist 
-
-Soy un desarrollador **Full Stack** apasionado por la creacion de interfaces visuales de alto impacto y arquitecturas de backend eficientes. Mi enfoque se centra en transformar ideas complejas en experiencias digitales fluidas, utilizando el poder de **React 19**, **Supabase** y **Tailwind CSS 4.0**.
+# :zap: Erent Eliuth Navas Avilez
+### Full Stack Developer | Microsoft 365 Consultant | Network Technician
 
 ---
 
-## Proyecto Destacado: Airbnb Premium Clone
+## :man_technologist: Acerca de mi
+Soy un desarrollador comprometido con la excelencia tecnica y la innovacion. Mi trayectoria combina la robustez de la infraestructura de redes con la agilidad del desarrollo web moderno. Me especializo en crear soluciones escalables que integran el ecosistema de **Microsoft 365** con aplicaciones personalizadas en **React** y **Node.js**.
 
-Una experiencia completa de reserva de alojamientos con una interfaz pulida y funcionalidades de nivel profesional.
+- :telescope: Actualmente trabajando en el **Airbnb Premium Clone**.
+- - :seedling: Aprendiendo sobre arquitecturas cloud avanzadas y optimizacion de base de datos.
+  - - :zap: "El codigo es poesia en movimiento, y cada linea es una oportunidad para la alquimia perfecta."
+   
+    - ---
 
-### Ultimas Innovaciones:
-- **Premium UX/UI:** Sistema de notificaciones (Toasts) personalizado y barra de navegacion con efectos Glassmorphism.
-- - **Mobile-First Design:** Navegacion optimizada con asistentes inteligentes y scroll automatico.
-  - - **Smart Booking Engine:** Logica avanzada de reserva con validacion de fechas en tiempo real y gestion de disponibilidad.
-    - - **Global Reach:** Sistema multi-idioma y de conversion de moneda dinamico.
-      - - **Host Wizard:** Flujo paso a paso con carga de imagenes a la nube y geocoding integrado.
-       
-        - **[Demo en vivo](https://ErenEliuth.github.io/airbnb/) | [Repositorio](https://github.com/ErenEliuth/airbnb)**
-       
-        - ---
+    ## :star2: Proyecto Destacado: Airbnb Premium Clone
+    *Una experiencia completa de reserva de alojamientos con una interfaz pulida y funcionalidades de nivel profesional.*
+    [Demo en vivo](https://ErenEliuth.github.io/airbnb/) | [Repositorio](https://github.com/ErenEliuth/airbnb)
 
-        ## Tech Stack Alchemist
+    ---
 
-        | Area | Tecnologias |
-        | :--- | :--- |
-        | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-        | **Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-        | **Tools** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-FFB13B?style=flat&logo=github-actions&logoColor=white) |
+    ## :hammer_and_wrench: Mi Arsenal Alquimista
 
-        ---
+    | Area | Tecnologias |
+    | :--- | :--- |
+    | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+    | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+    | **M365 & Cloud**| ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) |
 
-        ## Estadisticas de Alquimista
+    ---
 
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=ErenEliuth&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="stats" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenEliuth&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages" />
-        </div>div>
+    ## :bar_chart: Estadisticas de Alquimista
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ErenEliuth&show_icons=true&theme=omni&hide_border=true&include_all_commits=true" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenEliuth&layout=compact&theme=omni&hide_border=true" height="150" />
+    </div>div>
 
-        <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenEliuth&theme=dracula&hide_border=true" alt="streak" />
-        </div>div>
+    ---
 
-        ---
-
-        > "El codigo es poesia en movimiento, y cada linea es una oportunidad para la alquimia perfecta."
-        >
-        > <div align="center">
-          <a href="https://linkedin.com/in/ErenEliuth" target="_blank">
-              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-          </a>a>
-          </div>
-          
+    <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=ErenEliuth&color=FF385C" alt="ErenEliuth" />
+    </div>div>
