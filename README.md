@@ -16,11 +16,11 @@ Soy un desarrollador comprometido con la excelencia técnica e innovación. Mi t
 
     ### 💰 FinanzasApp
     *Una aplicación de gestión financiera inteligente, con diseño premium y dashboard interactivo, optimizada para Android, iOS y Web.*
-    [Demo en vivo](https://ErenEliuth.github.io/FinanzasApp/) | [Repositorio](https://github.com/ErenEliuth/FinanzasApp)
+    [Demo en vivo](https://ErenEliuth.github.io/FinanzasApp/) | 
 
     ### 🏠 Airbnb Premium Clone
     *Una experiencia completa de reserva de alojamientos con una interfaz pulida y funcionalidades de nivel profesional.*
-    [Demo en vivo](https://ErenEliuth.github.io/airbnb/) | [Repositorio](https://github.com/ErenEliuth/airbnb)
+    [Demo en vivo](https://ErenEliuth.github.io/airbnb/) | 
 
     ---
 
